@@ -1,0 +1,1 @@
+## Hello , this  calculator was created as a form of study, coded in Js, CSS and HTML
